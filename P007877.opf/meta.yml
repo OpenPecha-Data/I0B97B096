@@ -1,15 +1,16 @@
-id: opecha:P007877
+id: P007877
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12627
   title: ཚད་མ་རིགས་གཏེར་རྩ་འགྲེལ།
-  volume:
+  author: ''
+  volumes:
     1fd7b4e6c01e4f8ea735aeb23eb59ab1:
       image_group_id: I1KG12641
       title: Volume 1 of tshad ma rigs gter rtsa 'grel/
       volume_number: 1
       total_pages: 610
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཚད་མ་རིགས་གཏེར་རྩ་འགྲེལ།
   author: ''
