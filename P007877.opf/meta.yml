@@ -5,11 +5,12 @@ source_metadata:
   title: ཚད་མ་རིགས་གཏེར་རྩ་འགྲེལ།
   author: ''
   volumes:
-    d9fc37f200074f0fb67bb1a90b7715cf:
+    1fd7b4e6c01e4f8ea735aeb23eb59ab1:
       image_group_id: I1KG12641
-      title: ''
+      title: Volume 1 of tshad ma rigs gter rtsa 'grel/
       volume_number: 1
       total_pages: 610
+      base_file: v001.txt
 ebook_metadata:
   title: ཚད་མ་རིགས་གཏེར་རྩ་འགྲེལ།
   author: ''
